@@ -1,0 +1,22 @@
+[
+  {
+    "name": "itemname-e.dat.zip",
+    "path": "itemname-e.dat",
+    "hash": "d7eba0762ab034a909293f2c2af56a532d874e64457bbafa9fd100332371def4"
+  },
+  {
+    "name": "l2.bin.zip",
+    "path": "l2.bin",
+    "hash": "740e89d2d3d010d43676c8175825f52f7a0d20ca8580a328ef61efe92f5a4c9f"
+  },
+  {
+    "name": "L2.exe.zip",
+    "path": "L2.exe",
+    "hash": "790d9068796714389d82a400d14d26dcb9e6ecdfc6c2b5eba92ebd1a441b10ee"
+  },
+  {
+    "name": "l2.ini.zip",
+    "path": "l2.ini",
+    "hash": "6d71065a9563d0d8e6d9a1c025c153779458d16778665cd531668b6a7d37659a"
+  }
+]
