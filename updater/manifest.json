@@ -1,6 +1,8 @@
 {
-  "L2.exe.zip": "L2.exe.zip",
-  "itemname-e.dat.zip": "itemname-e.dat.zip",
-  "l2.bin.zip": "l2.bin.zip",
-  "l2.ini.zip": "l2.ini.zip"
+  "files": [
+    "L2.exe.zip",
+    "itemname-e.dat.zip",
+    "l2.bin.zip",
+    "l2.ini.zip"
+  ]
 }
